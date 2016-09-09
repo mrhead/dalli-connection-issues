@@ -2,7 +2,7 @@
 
 ### Files
 
-- `memcached.rb` dummy memcached server which responds to version request but ignores everything else
+- `memcached.rb` dummy memcached server which responds to a version request but ignores everything else
 - `test.rb` test which reproduces indefinite connection retries
 
 ### How to reproduce the issue
