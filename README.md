@@ -10,5 +10,5 @@
 ```
 bundle install
 ruby memcached.rb
-ruby test.rb # from another console seesion
+ruby test.rb # from another console session
 ```
